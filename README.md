@@ -20,4 +20,9 @@ git merge test_tmp
 
 # 删除临时分支
 git branch -d test_tmp
+
+# 手工处理可能的版本冲突并提交
+git add .
+git commit -m '处理版本冲突'
+git push
 ```
