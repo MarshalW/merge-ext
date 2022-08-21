@@ -1,6 +1,8 @@
 # Merge test
 
-测试多个 repo 下分支的合并.
+测试多个 repo 下分支的合并。
+
+将在另外的repo中操作合并此repo的branch。
 
 从 https://github.com/MarshalW/merge-test main 分支合并改动到当前 main 分支。
 
